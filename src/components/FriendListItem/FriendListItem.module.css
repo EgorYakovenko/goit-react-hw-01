@@ -1,0 +1,23 @@
+.img {
+  width: 40px;
+  margin: auto;
+}
+.name {
+  margin-top: 10px;
+  font-size: 14px;
+  text-align: center;
+}
+
+.onLine {
+  margin-top: 5px;
+  color: green;
+  font-size: 10px;
+  text-align: center;
+}
+
+.offLine {
+  margin-top: 5px;
+  color: red;
+  font-size: 10px;
+  text-align: center;
+}
